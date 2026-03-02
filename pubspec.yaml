@@ -10,7 +10,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # Здесь можно добавить другие пакеты, но для этого задания они не нужны
 
 dev_dependencies:
   flutter_test:
